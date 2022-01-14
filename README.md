@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Hello!%20&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Hello!%20&fontSize=60)
+
+
+
+
+
 
 
 <h1>📚 STACKS</h1></div>
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
